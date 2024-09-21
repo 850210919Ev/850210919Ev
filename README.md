@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @8502109193o
+  não pode copia jogas 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...elen
+- 📫 How to reach me ...
+- 😄 Pronouns: ...vitoriaa       
+- ⚡ Fun fact: ...
+
+<!---
+850210919Ev/850210919Ev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
